@@ -135,11 +135,11 @@ kalma_marroquineria/
 <div align="center">
   <i>Si te gustó este proyecto, no olvides darle una ⭐ al repositorio.</i>
 </div>
-
+---
 <div align="center">
-  <p>Desarrollado con ❤️ por **Abril Gavilan**.</p>
+  <p>Desarrollado con ❤️ por Abril Gavilan.</p>
 </div>
-
+---
 <div align="center">
   <p>GitHub: [@abrilgavilan11](https://github.com/abrilgavilan11)</p>
 </div>
