@@ -19,8 +19,6 @@
 
 Además, integra comunicación en tiempo real a través de un chat en vivo para soporte al cliente.
 
-Desarrollado con ❤️ por **Abril Gavilán**.
-
 ---
 
 ## ✨ Características Principales
@@ -134,14 +132,12 @@ kalma_marroquineria/
 
 ---
 
-## 👩‍💻 Autor
-
-**Abril Gavilán**
-- GitHub: [@abrilgavilan11](https://github.com/abrilgavilan11)
-- *¡No dudes en contactarme si tienes dudas o sugerencias sobre el proyecto!*
-
----
-
 <div align="center">
   <i>Si te gustó este proyecto, no olvides darle una ⭐ al repositorio.</i>
 </div>
+
+<div align="center">
+  <p>Desarrollado con ❤️ por **Abril Gavilan**.</p>
+  <p>GitHub: [@abrilgavilan11](https://github.com/abrilgavilan11)</p>
+</div>
+
