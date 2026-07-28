@@ -137,7 +137,5 @@ kalma_marroquineria/
 </div>
 
 
+GitHub: [@abrilgavilan11](https://github.com/abrilgavilan11)</p>
 
-<div align="center">
-  <p>GitHub: [@abrilgavilan11](https://github.com/abrilgavilan11)</p>
-</div>
